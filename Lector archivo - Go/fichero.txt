@@ -1,0 +1,10 @@
+LENGUAJES DE PROGRAMACION:
+1. Go
+2. PHP
+3. Javascript
+4. C++
+5. Pascal
+6. Ruby
+7. Python
+8. C#
+9. Basic

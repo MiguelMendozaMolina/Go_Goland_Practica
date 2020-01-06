@@ -1,0 +1,4 @@
+Lenguajes de programacion
+10.Assembler
+1.-PHP
+2.-Python
